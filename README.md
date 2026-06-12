@@ -176,18 +176,43 @@ Details are confidential; happy to discuss the architecture patterns (retrieval,
 
 ## 💼 Experience
 
-### Backend Engineer & AI Specialist · **Blue Reply** (Blue Insurance IT)
+### Senior Consultant · **Blue Reply IT**
 
-**2024 — Present** · Bologna, Italy
+**Feb 2025 — Present** · Bologna, Italy
 
-Engineering backend systems and Generative AI solutions for the enterprise insurance domain.
+- Lead technical teams in the architecture and delivery of enterprise-grade solutions for insurance clients, ensuring alignment between business objectives and technology strategy
+- Architect scalable backend platforms leveraging RESTful APIs, microservices, and cloud-native technologies to support high-performance business applications
+- Drive Generative AI adoption and innovation, delivering custom AI solutions that enhance customer experience, streamline operations, and accelerate the Software Development Lifecycle (SDLC)
 
-- Design and develop backend services and REST APIs for insurance-domain products
-- Build Generative AI solutions — LLM integration, RAG pipelines, and AI-assisted workflows
-- Contribute across the stack, from data persistence to the interfaces consuming the APIs
-- Apply test-driven development and clean-architecture practices in an enterprise delivery context
+<img src="https://img.shields.io/badge/Generative_AI-8b5cf6?style=flat-square&logo=openaigym&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/REST_APIs-6366f1?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/Microservices-6d28d9?style=flat-square&logo=docker&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/Cloud_Native-4c1d95?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud Native" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Generative_AI-8b5cf6?style=flat-square&logo=openaigym&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/REST_APIs-6366f1?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/RAG-6d28d9?style=flat-square&logo=databricks&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/SQL-4c1d95?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+### Consultant · **Blue Reply IT**
+
+**Mar 2020 — Feb 2025** · Bologna, Italy
+
+- Architected scalable backend platforms for top-tier insurance clients, leveraging RESTful APIs and microservices architectures to deliver robust, high-performance systems
+- Led the design and implementation of computer vision solutions — image recognition for claims automation, document understanding for intelligent processing, and facial recognition for secure identity verification
+- Drove Generative AI innovation by delivering custom-built applications that optimize operations and elevate customer experience in the insurance domain
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Computer_Vision-8b5cf6?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Generative_AI-6366f1?style=flat-square&logo=openaigym&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/REST_APIs-6d28d9?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+
+### Co-Founder · **Hivergy**
+
+**Feb 2023 — Jun 2025**
+
+- Led the end-to-end software development of the startup's core product, taking full ownership of the technical stack from architecture to production
+- Designed and implemented scalable backend systems and product infrastructure in a fast-paced environment, ensuring reliability, maintainability, and rapid iteration
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Backend_Systems-8b5cf6?style=flat-square&logo=serverless&logoColor=white" alt="Backend Systems" /> <img src="https://img.shields.io/badge/Software_Architecture-6d28d9?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" />
+
+### Software Engineer · **Pertec Sistemi** (Advanced Sensing Solutions)
+
+**Sep 2019 — Feb 2020** · Modena, Italy
+
+- Designed and developed human–machine interaction (HMI) systems, enabling seamless integration between users and complex industrial environments
+- Performed advanced analysis of multi-source sensor data (IoT and industrial systems), including real-time data processing, anomaly detection, and performance optimization through data-driven insights
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/IoT_%26_Sensor_Data-8b5cf6?style=flat-square&logo=thethingsnetwork&logoColor=white" alt="IoT and sensor data" /> <img src="https://img.shields.io/badge/HMI_Systems-6d28d9?style=flat-square&logo=siemens&logoColor=white" alt="HMI Systems" />
 
 ---
 
